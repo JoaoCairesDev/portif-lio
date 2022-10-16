@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7912da55.css",
+    "main.js": "/static/js/main.0c25b8ae.js",
+    "static/media/Noteblock.png": "/static/media/Noteblock.5b45e75c593255b5db93.png",
+    "static/media/Onibusbanner.png": "/static/media/Onibusbanner.ce5b158b697e029cbd53.png",
+    "static/media/Sacola.png": "/static/media/Sacola.1874d2fae186c228abe0.png",
+    "static/media/Faxada.png": "/static/media/Faxada.46bb1fe6e5abd85a0ced.png",
+    "static/media/broxes.png": "/static/media/broxes.cc5c3e8b8c51884caa61.png",
+    "static/media/crachaCard.png": "/static/media/crachaCard.0be12844c52bdf0b27ab.png",
+    "static/media/BlocoNotas.png": "/static/media/BlocoNotas.0d5d2fcee669b3373d59.png",
+    "static/media/Camiseta.png": "/static/media/Camiseta.4dc5601589db3e6614ff.png",
+    "static/media/cardVisita_T.png": "/static/media/cardVisita_T.96163e4e45a32c2f3e6e.png",
+    "static/media/joaoimage.jpg": "/static/media/joaoimage.359f4f98a235df2824db.jpg",
+    "static/media/Logoorizontal.png": "/static/media/Logoorizontal.a1e654699d800e42bd27.png",
+    "static/media/cloverWith.svg": "/static/media/cloverWith.e837f1985558a59f161441093abaaf9f.svg",
+    "static/media/instagram.svg": "/static/media/instagram.f7a61e1a8c5a9d4bc4fb76ae18da2314.svg",
+    "static/media/behance.svg": "/static/media/behance.4fafb8e374e0c5d4449b9e0f05a1d4e2.svg",
+    "index.html": "/index.html",
+    "main.7912da55.css.map": "/static/css/main.7912da55.css.map",
+    "main.0c25b8ae.js.map": "/static/js/main.0c25b8ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7912da55.css",
+    "static/js/main.0c25b8ae.js"
+  ]
+}
